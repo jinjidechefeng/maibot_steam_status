@@ -1,0 +1,40 @@
+{
+  "manifest_version": 1,
+  "name": "steam_status_plugin",
+  "display_name": "Steam 在线状态与别名插件",
+  "version": "1.0.0",
+  "description": "通过 /steam 指令查询指定 Steam 用户在线状态，并支持在群内绑定别名以便快捷查询；包含隐私未公开提示与帮助命令。",
+  "author": {
+    "name": "chefeng",
+    "url": "https://github.com/jinjidechefeng"
+  },
+  "license": "GPL-v3.0-or-later",
+  "host_application": {
+    "min_version": "0.10.1"
+  },
+  "homepage_url": "https://github.com/jinjidechefeng/maibot_steam_status",
+  "repository_url": "https://github.com/jinjidechefeng/maibot_steam_status",
+  "keywords": ["Steam", "在线状态", "别名绑定", "游戏", "查询"],
+  "categories": ["工具", "游戏"],
+
+  "default_locale": "zh-CN",
+  "locales_path": "_locales",
+
+  "plugin_info": {
+    "is_built_in": false,
+    "plugin_type": "general",
+    "components": [
+      {
+        "type": "command",
+        "name": "steam",
+        "description": "Steam 在线状态与群内别名绑定（子命令：help/link/unlink/list/status/whois）"
+      }
+    ],
+    "features": ["在线状态查询", 
+	    "群内别名绑定", 
+	    "隐私未公开提示",
+	    "帮助命令"
+    ]
+  }
+}
+
