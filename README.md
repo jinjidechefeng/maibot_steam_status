@@ -72,10 +72,10 @@ api_key = "你的SteamWebAPIKey"
  | 命令                          | 说明                |
  | --------------------------- | ----------------- |
  | `/steam help`               | 查看帮助信息            |
- | `/steam link 麦麦 1145141919810` | 将 Steam 用户绑定为“车风” |
+ | `/steam link 麦麦 1145141919810` | 将 Steam 用户绑定为“麦麦” |
  | `/steam list`               | 显示本群绑定列表          |
- | `/steam status 麦麦`          | 查询“车风”当前在线状态      |
- | `/steam unlink 麦麦`          | 移除“车风”的绑定         |
+ | `/steam status 麦麦`          | 查询“麦麦”当前在线状态      |
+ | `/steam unlink 麦麦`          | 移除“麦麦”的绑定         |
  | `/steam whois 麦麦`           | 查看绑定的 Steam 用户详情  |
 
  支持 SteamID64、SteamID32（自动转换）、自定义 URL（Vanity URL）。
