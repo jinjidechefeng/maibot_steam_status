@@ -103,7 +103,7 @@ api_key = "你的SteamWebAPIKey"
  | 作者   | chefeng                                                                                                        |
  | 仓库   | [https://github.com/jinjidechefeng/maibot_steam_status](https://github.com/jinjidechefeng/maibot_steam_status) |
  | 许可证  | GPL-3.0                                                                                                        |
- | 兼容版本 | MaiBot 0.10.1 及以上                                                                                              |
+ | 兼容版本 | MaiBot 0.10.0 及以上                                                                                              |
 
 
  ## 致谢
