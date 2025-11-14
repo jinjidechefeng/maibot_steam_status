@@ -3,6 +3,8 @@
 一个基于 MaiBot 框架开发的 **Steam 在线状态与别名管理插件**。  
 支持通过命令快速查询 Steam 用户在线状态、当前游戏，并允许在群内绑定和管理昵称映射。
 
+![example](https://github.com/jinjidechefeng/maibot_steam_status/blob/main/example.png)
+
 ---
 
 ## 功能特性
