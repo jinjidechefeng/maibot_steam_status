@@ -30,11 +30,10 @@
         "description": "Steam 在线状态与群内别名绑定（子命令：help/link/unlink/list/status/whois）"
       }
     ],
-    "features": ["在线状态查询", 
-	    "群内别名绑定", 
-	    "隐私未公开提示",
-	    "帮助命令"
+    "features": ["在线状态查询",
+      "群内别名绑定",
+      "隐私未公开提示",
+      "帮助命令"
     ]
   }
 }
-
